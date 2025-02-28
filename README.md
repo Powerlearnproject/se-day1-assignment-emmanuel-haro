@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engieering is a branch of computer science used for developing, testing and maintaining software.
 
@@ -101,10 +100,7 @@ System testing - directed towards the total software system overall, including a
 Acceptance tests - are formal tests that verify whether a system meets business requirements. They require the whole application to be running while the test is ongoing and are designed to simulate user activity.
 - Whether the software meets the needs of the end-user and is ready for deployment.
 
-
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 prompt engineering is the process whereby you guide generative AI solutions to generate desired output.
 Importance:
