@@ -1,11 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18435987&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
-
 #Part 1: Introduction to Software Engineering
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engieering is a branch of computer science used for developing, testing and maintaining software.
-
 Importance of software enegineering in in the technology include :
 Reliability, it enables software performs as expeccted without bias especially for critical application like healthcare and finance.
 Scalability and Flexibility, it ensures that the system can handle an increased load without affecting performance.
